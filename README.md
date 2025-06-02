@@ -46,6 +46,7 @@ I am glad that you found my GitHub page and wish you a wonderful day 😃
 
 #### Contact me!
   <a href="https://www.linkedin.com/in/laurent-dugardin/">
-         <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-          </a> 
-      
+<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" title="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a> 
+      (twitter not working yet ) 
+<img align="left" alt="linkedin" width="30px" style="padding-right:10px;" title="twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+          
